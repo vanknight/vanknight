@@ -1,6 +1,6 @@
 <p align="center">
-   <img height="550" src="https://github-readme-stats.vercel.app/api?username=vanknight&show_icons=true&theme=nightowl" />
-   <img height="550" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanknight&layout=compact&theme=nightowl" />
+   <img height="400" src="https://github-readme-stats.vercel.app/api?username=vanknight&show_icons=true&theme=nightowl" />
+   <img height="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanknight&layout=compact&theme=nightowl" />
 </p>
 
 <p align="center"> 
