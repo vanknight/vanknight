@@ -9,6 +9,13 @@
 </p>
 
 
-<p align="center" style="color: #fff;background: #011627;"> 
-  本人的其他项目: <a style="color: #fff;background: #011627;" href="https://gitee.com/VanKnight" target="_blank">VanKnight</a>
-</p>
+<table>
+    <td bgcolor="#011627">
+        <p align="center" style="background: #011627;">
+            <font face="微软雅黑" color='#fff'>本人的其他项目: </font>
+            <a href="https://gitee.com/VanKnight" target="_blank">
+                <font face="微软雅黑" color='#fff'>VanKnight</font>
+            </a>
+        </p>
+    </td>
+</table>
