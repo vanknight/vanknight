@@ -1,6 +1,6 @@
 <div style="display:flex;flex-direction:row;justify-content: center;align-items: flex-start;">
-   <img height="180" width="50%" src="https://github-readme-stats.vercel.app/api?username=vanknight&show_icons=true&theme=nightowl" />
-   <img height="180" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanknight&layout=compact&theme=nightowl" />
+   <img height="350" src="https://github-readme-stats.vercel.app/api?username=vanknight&show_icons=true&theme=nightowl" />
+   <img height="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanknight&layout=compact&theme=nightowl" />
 </div>
 
 <p align="center"> 
