@@ -9,6 +9,6 @@
 </p>
 
 
-<p align="center"> 
-  本人的其他项目: <a href="https://gitee.com/VanKnight" target="_blank">VanKnight</a>
+<p align="center" style="color: #fff;background: #011627;"> 
+  本人的其他项目: <a style="color: #fff;background: #011627;" href="https://gitee.com/VanKnight" target="_blank">VanKnight</a>
 </p>
