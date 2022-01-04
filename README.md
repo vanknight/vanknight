@@ -10,5 +10,5 @@
 
 
 <p align="center"> 
-  本人的其他项目: <a herf="https://gitee.com/VanKnight" target="_blank">VanKnight</a>
+  本人的其他项目: <a href="https://gitee.com/VanKnight" target="_blank">VanKnight</a>
 </p>
